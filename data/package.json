@@ -1,0 +1,17 @@
+{
+  "name": "veerum-locations-data",
+  "version": "1.0.0",
+  "description": "location data for use with Film Locations App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bluebird": "^3.7.2",
+    "dotenv": "^8.2.0",
+    "soda-js": "^0.2.3"
+  }
+}
